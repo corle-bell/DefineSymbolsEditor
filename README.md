@@ -6,16 +6,18 @@
 
 支持多个平台的配置文件
 
-如果设置为单一配置文件会明明为 DefineSymbolsData_Default
+如果设置为单一配置文件会命名为 DefineSymbolsData_Default
 
 多平台的话会根据平台命名
 
+# 界面展示
 
-# 界面展示:
 ![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/ScreenShoot/ui.png)
 
-# 写入后的编辑设置:
+# 写入后的编辑设置
+
 ![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/ScreenShoot/editor_setting.png)
 
-# 多平台配置文件:
+# 多平台配置文件
+
 ![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/ScreenShoot/platform.png)
