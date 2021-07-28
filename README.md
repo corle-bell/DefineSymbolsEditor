@@ -12,10 +12,10 @@
 
 
 # 界面展示:
-![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/Screenshoot/ui.png)
+![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/ScreenShoot/ui.png)
 
 # 写入后的编辑设置:
-![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/Screenshoot/editor_setting.png)
+![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/ScreenShoot/editor_setting.png)
 
 # 多平台配置文件:
-![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/Screenshoot/platform.png)
+![Image text](https://github.com/corle-bell/DefineSymbolsEditor/blob/main/ScreenShoot/platform.png)
