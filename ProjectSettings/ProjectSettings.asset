@@ -575,6 +575,7 @@ PlayerSettings:
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
     1: TEST;PULISH;IS_IAP
+    7: TEST;PULISH;IS_IAP
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}

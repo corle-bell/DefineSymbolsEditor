@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 02313c4fd1ca67f47a68d6ae0b03081a, type: 3}
-  m_Name: Android_4399
+  m_Name: Android_Test
   m_EditorClassIdentifier: 
   list: []
