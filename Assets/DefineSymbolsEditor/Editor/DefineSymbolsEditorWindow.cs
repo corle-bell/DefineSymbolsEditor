@@ -106,7 +106,7 @@ namespace Bm.DefineSymbols
 
                     item.name = EditorGUILayout.TextField("宏名称:", item.name);
                     item.desc = EditorGUILayout.TextField("说明:", item.desc);
-                    item.status = EditorGUILayout.Toggle("装填:", item.status);
+                    item.status = EditorGUILayout.Toggle("状态:", item.status);
 
                     if (GUILayout.Button("移除"))
                     {
